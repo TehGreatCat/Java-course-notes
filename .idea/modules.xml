@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-course-notes.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-course-notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-course-notes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-course-notes_main.iml" group="Java-course-notes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-course-notes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-course-notes_test.iml" group="Java-course-notes" />
+    </modules>
+  </component>
+</project>
